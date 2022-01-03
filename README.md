@@ -1,1 +1,1 @@
-My personal Grade-Calculator webApp
+My personal Grade-Calculator
