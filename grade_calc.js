@@ -34,7 +34,7 @@ btnAdd.addEventListener('click', () => {
     let template = `
 
 <style>
-<link rel="stylesheet" href="try3.css" />
+<link rel="stylesheet" href="grade_calc.css" />
 </style>
 
  
